@@ -5,7 +5,7 @@ import minhaFoto from 'assets/minha_foto.jpg'
 
 export default function Banner (){
     return (
-        <div className={styles.Banner}>
+        <div className={styles.banner}>
             <div className={styles.apresentacao}>
                 <h1 className={styles.titulo}>
                     Olá, Mundo!
